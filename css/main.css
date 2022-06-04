@@ -4,3 +4,15 @@
   border-radius: 50px;
   width: 50%;
 }
+.feature-font {
+  font-size: 4rem;
+  margin-bottom: 5%;
+}
+
+.marketing {
+  padding: 4rem 1rem;
+}
+
+.section-3 {
+  padding: 6rem 2rem;
+}
