@@ -16,3 +16,24 @@
 .section-3 {
   padding: 6rem 2rem;
 }
+
+.nav-link:visited,
+.nav-link:link {
+  border-bottom: 1px solid transparent;
+}
+
+.nav-link:hover,
+.nav-link:active {
+  border-bottom: 1px solid #eedf14;
+}
+.view-more-button {
+  font-size: 2rem;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.view-more-button:hover,
+.view-more-button:active {
+  border-bottom: 1px solid #eedf14;
+  color: #ffffff;
+}
