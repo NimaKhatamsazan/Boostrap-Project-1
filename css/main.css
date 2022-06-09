@@ -56,10 +56,20 @@
 .view-case-link:active {
   background-color: #eedf14;
   border-radius: 10px;
-  padding: 0rem 0.5rem;
+  padding: 0.5rem 0.5rem;
 }
 
 .bi-box-arrow-right {
   color: rgb(131, 131, 231);
   font-size: 3rem;
+}
+
+.description {
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+}
+
+.title-ourProjectArchive {
+  font-weight: 400;
 }
