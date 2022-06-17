@@ -73,3 +73,18 @@
 .title-ourProjectArchive {
   font-weight: 400;
 }
+
+.scale-element:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+.bi-arrow-up-square {
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+.bi-archive {
+  color: #fff;
+  font-size: 2.5rem;
+}
